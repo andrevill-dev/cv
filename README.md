@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <h1 align="center">CV, Resume and Portfolio website template</h1>
+  <h1 align="center">CV and Resumen</h1>
 </p>
 
 <p align="center">
